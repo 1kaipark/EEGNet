@@ -1,4 +1,4 @@
-# Kai Park EEGNet Classifier (NREIP 2023)
+# EEGNet Classifier Jupyter Notebook (NREIP 2023)
 
 - Goal: to produce a working implementation of the EEGNet classifier model (developed by Lawhern et al., ported to PyTorch by Sriram Ravindran) that can be customized to take input EEG data of various shapes.
     - [https://arxiv.org/abs/1611.08024](https://arxiv.org/abs/1611.08024)
